@@ -1,1 +1,1 @@
-Zmiany w README konflikt 1
+Zmiany w README na pliku konflikt2
