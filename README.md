@@ -1,2 +1,1 @@
-Projekt CLI w gicie, sprawdzian o wiedzy z gita Bardziej SZALONE 
-
+Zmiany w README konflikt 1
