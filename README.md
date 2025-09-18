@@ -1,1 +1,2 @@
-Projekt CLI w gicie, sprawdzian o wiedzy z gita
+Projekt CLI w gicie, sprawdzian o wiedzy z gita SZALONE
+
